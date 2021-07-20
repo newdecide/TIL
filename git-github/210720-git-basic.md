@@ -1,5 +1,4 @@
-# git repo clone으로 시작하기
-
+## git repo clone about
 ## 1. github hompage login.
 ## 2. do git new repository made.
 ## 3. repository name add.
